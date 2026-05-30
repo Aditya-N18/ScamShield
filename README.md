@@ -1,4 +1,4 @@
-Hi this is a project for hack harvard
+Hi this is a project for hack harvard-
 # ScamShield – Real-Time Call Scam Detection System
 ## lets get started
 ## Overview
